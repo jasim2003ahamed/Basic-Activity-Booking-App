@@ -35,7 +35,7 @@ Make sure MongoDB is running on your system (mongodb://localhost:27017).
 
 Test the API easily using the Postman collection below:
 
-*[View Postman Collection](https://jasimahamed-5823100.postman.co/workspace/Jasim-Ahamed's-Workspace~9993fd28-905e-41b8-8b40-74d02b6374af/collection/44821174-bd9b3248-ae93-44a5-aa01-3769cbdfb8f8?action=share&creator=44821174)*
+*[View Postman Collection](https://jasimahamed-5823100.postman.co/workspace/Jasim-Ahamed's-Workspace~9993fd28-905e-41b8-8b40-74d02b6374af/collection/44821174-98df55d3-d1c5-44e9-92d5-f2a05dd9a6a5?action=share&creator=44821174)*
 
 > Import this link into Postman to try out all endpoints.
 
