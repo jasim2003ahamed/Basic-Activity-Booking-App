@@ -1,4 +1,3 @@
-
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/activity_booking_db
 JWT_SECRET="ZjB3F@qE4sT!nY8m#Ue1PkVrA%LcX^Wt"
